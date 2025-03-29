@@ -43,3 +43,7 @@ This project is a Fake News Detection System that classifies news articles as re
 
 **Results**
 - The model was evaluated on test data and achieved an accuracy of ~92.89%.
+
+**License**
+- This project is made for learning purpose only.
+
